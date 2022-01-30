@@ -16,4 +16,8 @@ Useful links:
 
 8. https://www.submarinecablemap.com/
 
-9. 
+9. https://dribbble.com/
+
+10. https://ui-patterns.com/
+
+11. 
