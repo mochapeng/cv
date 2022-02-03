@@ -32,4 +32,6 @@ Useful links:
 
 16. https://colorhunt.co/
 
-17. 
+17. https://www.dailyui.co/
+
+18. 
