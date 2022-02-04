@@ -40,5 +40,7 @@ Useful links:
 
 20. <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
 
-21. 
+21. https://www.minify.org
+
+22. 
 
