@@ -42,5 +42,10 @@ Useful links:
 
 21. https://www.minify.org
 
-22. 
+22. $("h1.title") >> "h1" that has a class of "title"
+23. $("#header h1") >> "h1" that's nested inside a div with ID "header"
+24. $("button") >> select all "button" element on screen
+25. document.querySelector OR document.querySelectorAll
+
+26. 
 
