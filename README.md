@@ -49,5 +49,7 @@ Useful links:
 
 26. https://hyper.is/
 
-27. 
+27. http://git-scm.com/
+
+28. 
 
