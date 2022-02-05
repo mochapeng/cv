@@ -47,5 +47,7 @@ Useful links:
 24. $("button") >> select all "button" element on screen
 25. document.querySelector OR document.querySelectorAll
 
-26. 
+26. https://hyper.is/
+
+27. 
 
