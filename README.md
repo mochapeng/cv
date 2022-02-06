@@ -63,5 +63,8 @@ Useful links:
 
 33. https://sv443.net/jokeapi/v2/
 
-34. 
+34. JSON.parse >> to convert to javascript object
+    JSON.stringify >> to convert javascript object to string
+    
+35. 
 
