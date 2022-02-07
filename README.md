@@ -68,5 +68,7 @@ Useful links:
     
 35. https://www.mailchimp.com
 
-36. 
+36. https://mailchimp.com/developer/marketing/api/list-locations/
+
+37. 
 
