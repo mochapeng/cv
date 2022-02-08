@@ -64,11 +64,14 @@ Useful links:
 33. https://sv443.net/jokeapi/v2/
 
 34. JSON.parse >> to convert to javascript object
+
     JSON.stringify >> to convert javascript object to string
     
 35. https://www.mailchimp.com
 
 36. https://mailchimp.com/developer/marketing/api/list-locations/
 
-37. 
+37. https://ejs.co/
+
+38. 
 
