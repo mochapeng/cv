@@ -75,5 +75,7 @@ Useful links:
 
 38. https://github.com/mde/ejs/wiki/Using-EJS-with-Express
 
-39. 
+39. https://lodash.com
+
+40. 
 
