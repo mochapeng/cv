@@ -89,5 +89,7 @@ Useful links:
 
 43. https://docs.mongodb.com/manual/crud/
 
-44. 
+44. sudo pkill -f mongod
+
+45. 
 
