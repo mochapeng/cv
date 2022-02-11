@@ -77,5 +77,7 @@ Useful links:
 
 39. https://lodash.com
 
-40. 
+40. https://sqliteonline.com
+
+41. 
 
