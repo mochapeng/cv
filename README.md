@@ -83,7 +83,8 @@ Useful links:
     FROM orders
     INNER JOIN customers ON orders.customer_id = customers.id;
     
-42. Mongo installed using Brew (data/db)
+42. https://docs.mongodb.com/manual/tutorial/install-mongodb-on-os-x/
+    Mongo installed using Brew (data/db)
 
 43. https://docs.mongodb.com/manual/crud/
 
