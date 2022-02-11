@@ -79,5 +79,7 @@ Useful links:
 
 40. https://sqliteonline.com
 
-41. 
+41. SELECT orders.order_number, customers.first_name, customers.last_name, customers.address
+    FROM orders
+    INNER JOIN customers ON orders.customer_id = customers.id;
 
