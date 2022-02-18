@@ -95,5 +95,7 @@ Useful links:
 
     Object Document Mapper (ODM)
 
-46.
+46. https://github.com/github/gitignore/blob/main/Node.gitignore
+
+47. 
 
