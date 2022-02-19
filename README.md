@@ -99,5 +99,9 @@ Useful links:
 
 47. https://lipis.github.io/bootstrap-social/
 
-48. 
+48. bcrypt
+
+49. passport.js
+
+50. 
 
