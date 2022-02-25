@@ -107,5 +107,7 @@ Useful links:
 
 51. http://json.parser.online.fr/
 
-52. 
+52. https://www.w3schools.com/tags/ref_standardattributes.asp
+
+53. 
 
