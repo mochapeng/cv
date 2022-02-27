@@ -111,3 +111,6 @@ Useful links:
 
 53. https://picsum.photos/
 
+54. https://sequelize.org/master/
+
+55. 
